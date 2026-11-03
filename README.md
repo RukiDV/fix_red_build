@@ -1,3 +1,5 @@
+[![CI](https://github.com/RukiDV/fix_red_build/actions/workflows/ci.yml/badge.svg)](https://github.com/RukiDV/fix_red_build/actions/workflows/ci.yml)
+
 # Fix the Red Build
 
 (difficulty: 🔥🔥)
